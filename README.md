@@ -20,5 +20,5 @@ A healthcare landing page built with HTML, CSS, and JavaScript.
 ## 📦 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/trafalgar-healthcare.git
+   https://github.com/peyalhasan/Trafalgar.git
 
